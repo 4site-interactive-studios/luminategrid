@@ -40,7 +40,7 @@ HTML Caption
     <!-- Dropdown Flag / Currency: Swaps page with the defined "option" value on select. -->
     <!-- The first and default option for the page should not have a value specified. -->
     <span class="flag usa">
-        <select name="flag" onchange="return window.location = this.value;">
+        <select id="flag-select" name="flag" onchange="return window.location = this.value;">
             <option id="flag-select">USD</option>
             <option value="http://fincac.convio.net/site/Donation2?2240.donation=form1&amp;df_id=2240&amp;mfc_pref=T &amp;utm_source=email&amp;utm_medium=eappeal&amp;utm_campaign=test_canada_2019&amp;utm_content=eca1910test&amp;autologin=true">CAD</option>
         </select>
