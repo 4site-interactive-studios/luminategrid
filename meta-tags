@@ -1,0 +1,45 @@
+**Document Type Declaration
+    HTML 5
+
+**META Description (The HTML is intentionally unescaped)**
+
+    FINCA is a charitable microfinance institution serving poor families in developing countries, with the goal to reduce poverty through financial inclusion.">
+    <link href="https://apps.4sitestudios.com/fernando/finca/dist/main.css" rel="stylesheet" type="text/css`
+
+**Additional HTML Tags for HEAD Element**
+
+    <!-- 4Site Start -->
+    <script src="https://apps.4sitestudios.com/fernando/finca/dist/main.js" async></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ed1849">
+    <!-- 4Site End -->
+    
+    <!-- Datalayer -->
+    [[S51:reus_Datalayer]]
+    <!-- End Datalayer -->
+    
+    <!-- Google Tag Manager -->
+    [[S51:reus_GTM]]
+    <!-- End Google Tag Manager -->
+    
+    <!-- WDS Data Integration Tag -->
+    <script>
+    var _wds_im = "{Insert CUSTOMER_ID Here}";
+    var _wds_ae = "{Insert EMAIL_ADDRESS Here}";
+    var _wds_oi = "{Insert ORDER_ID Here}";
+    var _wds_oa = "{Insert ORDER_AMOUNT Here}";
+    </script>
+    <!-- End WDS Data Integration Tag -->
+    
+    <!-- Other Legacy data pulled from existing donation page template -->
+    <script>
+    var _wds_im = "[[S1:cons_id]]";
+    var _wds_ae = "[[S1:primary_email]]";
+    var _wds_oi = "[[S120:dc:transactionID]]";
+    var _wds_oa = "[[S120:dc:giftAmount]]";
+    </script>
+    <!-- End Other Legacy data  -->
+    
+    <!-- CrazyEgg Tracking Script -->
+    <!-- <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0075/5468.js" async="async"></script> -->
+    <!-- End CrazyEgg Tracking Script -->
