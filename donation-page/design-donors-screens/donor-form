@@ -1,0 +1,150 @@
+
+https://d.pr/i/BibBaw
+
+**Page 1**
+HTML Caption
+
+    <!-- Start FINCA content wrapper -->
+    <div id="finca-content-wrapper">
+    <div id="finca-logo">
+        <img src="../images/content/pagebuilder/logo.jpg" alt="FINCA" />
+    </div>
+    </div>
+
+HTML Caption
+
+    <div id="page-copy-wrapper">
+    <h1 id="page-title">Make a Lasting Impact for Hardworking Families</h1>
+    <div id="page-body-wrapper">
+    <p>You can create a reliable source of funds that improves the livelihoods of poor families each year!</p>
+    </div>
+    </div>
+
+HTML Caption
+
+    <div class="radio-container frequency">
+    <div>
+                      <input id="month" name="freq" type="radio" value="level_flexiblegift_type2" checked="checked" />
+                      <label for="month">Give Monthly</label>
+                    </div>
+    <div>
+                      <input id="year" name="freq" type="radio" value="level_flexiblegift_type1" />
+                      <label for="year">Give Once</label>
+                    </div>
+    </div>
+    <h2>
+    Select <strong class="month-label">monthly</strong> gift amount 
+    <!-- Static Flag / Currency -->
+    <!-- <span class="flag can">CAD</span> -->
+    <!-- <span class="flag usa">USD</span> -->
+    <!-- Dropdown Flag / Currency: Swaps page with the defined "option" value on select. -->
+    <!-- The first and default option for the page should not have a value specified. -->
+    <span class="flag usa">
+        <select name="flag" onchange="return window.location = this.value;">
+            <option id="flag-select">USD</option>
+            <option value="http://fincac.convio.net/site/Donation2?2240.donation=form1&amp;df_id=2240&amp;mfc_pref=T &amp;utm_source=email&amp;utm_medium=eappeal&amp;utm_campaign=test_canada_2019&amp;utm_content=eca1910test&amp;autologin=true">CAD</option>
+        </select>
+    </span>
+    </h2>
+
+Flexible Sustainer Donation Level
+
+[https://d.pr/free/i/VTXuGb](https://d.pr/free/i/VTXuGb)
+
+HTML Caption
+
+    <div class="form-section-heading-wrapper">
+    <div class="form-section-main-heading">
+    <h2>Your Information <span class="padlock">SECURE</span></h2>
+    </div>
+    </div>
+
+Billing First Name
+Billing Last Name
+Email Address
+Communication Opt-in
+
+https://d.pr/free/i/rCaOhg
+
+Honor Gift - Show Honor Fields
+Honor Gift - Type
+Honor Gift - Honoree Full Name
+HTML Caption
+
+    <div id="give-in-honor-form-section-heading-wrapper" class="form-section-heading-wrapper">
+    <div class="form-section-main-heading">
+    <h2>Let Them Know You Care</h2>
+    </div>
+    </div>
+
+Honor Gift - Notification Recipient Name
+Honor Gift - Notification Recipient Street 1
+Honor Gift - Notification Recipient Street 2
+Honor Gift - Notification Recipient City
+Honor Gift - Notification Recipient State/Province
+Honor Gift - Notification Recipient ZIP/Postal Code
+Honor Gift - Notification Recipient Country
+Honor Gift - Message Body
+HTML Caption
+
+    <div class="form-section-heading-wrapper">
+    <div class="form-section-main-heading">
+    <h2>Billing Information</h2>
+    </div>
+    </div>
+
+Billing Street 1
+Billing Street 2
+Billing City
+Billing State/Province
+Billing Zip/Postal Code
+Billing Country
+HTML Caption
+
+    <div class="form-section-heading-wrapper">
+    <div class="form-section-main-heading">
+    <h2>Payment Information</h2>
+    </div>
+    </div>
+
+Payment Type
+Buttons
+HTML Caption
+
+    <!-- All Badges should be 68px tall -->
+    <div id="finca-seals-wrapper">
+        <a id="charity-watch-seal" class="seal" href="https://www.charitywatch.org/ratings-and-metrics/finca-international/408" target="_blank">
+            <img src="../images/content/pagebuilder/charity-watch-seal.jpg" alt="Charity Watch Top Rated" />
+        </a>
+        <a id="guidestar-seal" class="seal" href="https://www.guidestar.org/profile/13-3240109" target="_blank">
+            <img src="../images/content/pagebuilder/GuideStarSeals.png" alt="GuideStar Seal of Transparency" />
+        </a>
+        <a id="greatnonprofits-seal" class="seal" href="https://greatnonprofits.org/org/finca-international-inc" target="_blank">
+            <img style="height: 68px;" src="../images/content/pagebuilder/greatnonprofits_seal.png" alt="Great Non-Profits" />
+        </a>
+    <script src="https://seal.geotrust.com/getgeotrustsslseal?host_name=secure3.convio.net&amp;size=S&amp;lang=en" type="text/javascript"></script>
+    <a id="geo-trust-seal" class="seal" href="http://www.geotrust.com/ssl/" target="_blank"></a>
+    </div>
+
+HTML Caption
+
+    <div id="finca-footer-copy">
+    <p>FINCA is a non-profit, tax-exempt charitable organization under Section 501(c)(3) of the United States Internal Revenue Code.</p>
+    <p>Donations are tax-deductible. Our tax ID number is 13-3240190</p>
+    <p>For assistance call <strong>202-682-1510</strong></p>
+    <p><a href="https://finca.org/legal-disclaimer/">Legal Disclaimer</a> | <a href="https://finca.org/legal-disclaimer/privacy-policy/">Privacy Policy</a></p>
+    </div>
+
+HTML Caption
+
+    <!-- Form Background Image -->
+    <!-- When saving remember to optimize the image for web and consider a progressive JPEGs format -->
+    <style type="text/css"><!--
+    #finca-page-wrapper>div:last-child{
+        /*background-image: url('https://placekitten.com/1280/1000');*/
+        /*background-color: #fcd1db;*/
+    }
+    --></style>
+    <script type="text/javascript">// <![CDATA[
+    var ie11 = "http://finca.convio.net/site/Donation2?df_id=4302&mfc_pref=T&4302.donation=form1";
+    // ]]></script>
