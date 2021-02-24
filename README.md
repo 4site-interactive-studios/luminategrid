@@ -1,1 +1,1 @@
-# Page Templates for Luminate Online (Convio). We call it LuminateGrid
+# Page Templates for Luminate Online (Convio), we call it LuminateGrid
